@@ -1,0 +1,15 @@
+.bg-light {
+    background-color: rgb(253, 254, 255) !important;
+}
+.topo{
+    padding: 15%;
+    background-color: rgb(255, 238, 0);
+}
+.h1{
+    margin-left: 550px;
+    font-family: 'Courier New', Courier, monospace;
+    font: 300;
+}
+.navbar-collapse{
+    margin-left: 900px !important;
+}
